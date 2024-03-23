@@ -1,4 +1,4 @@
- *was ist das? das bach? nine! mozart - The Pianist*
+ *Was ist das? Das ist Bach? Nein, Mozart - The Pianist*
  
                       1. Static 
                                \
