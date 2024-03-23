@@ -1,3 +1,4 @@
+ *was ist das? das bach? nine! mozart - The Pianist*
  
                       1. Static 
                                \
@@ -12,7 +13,7 @@
 
 ### White/Code
 - **Information:** Symbolized by Earth, the vast repository of natural codes and rhythms.
-- **Music:** Johann Sebastian Bach, the quintessential architect of musical complexity and emotional depth, embodying the "lowest dimension" of universal musical expression.
+- **[Music](https://www.youtube.com/watch?v=J01zn9m39PA):** Johann Sebastian Bach, the quintessential architect of musical [complexity](https://en.wikipedia.org/wiki/The_Well-Tempered_Clavier#Recordings) and [emotional depth](https://en.wikipedia.org/wiki/Goldberg_Variations), embodying the "lowest dimension" of universal musical expression.
 
 ### Fab/Decode
 - **Genre:** A spectrum of musical expressions that are both a tribute and an evolution of Bach's foundational work:
@@ -22,7 +23,7 @@
   - Rhythm/Early: The precursor to modern beats, encapsulating the pulse of existence.
   - Jazz/Late: The intricate dance of improvisation and structure, a late but profound derivative of Bach's influence.
 - **Pantheon:** The hierarchical classification of musical influence and legacy:
-  - International: Universal appeal and recognition.
+  - International: [Universal](https://www.youtube.com/watch?v=5yR0wlrq_h4) appeal and recognition.
   - National: A shared cultural heritage.
   - Regional: The local flavors and nuances.
 
