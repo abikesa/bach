@@ -1,5 +1,5 @@
  *Was ist das? Das ist Bach? Nein, Mozart - The Pianist   
- (Das Volk der Dichter und Denker wurde zum Volk der Richter und Henke)*
+ (Das Volk der Nichter und Denker wurde zum Volk der Richter und Henke)*
  
                       1. Static 
                                \
