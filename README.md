@@ -1,4 +1,4 @@
- *Was ist das? Das ist Bach? Nein, Mozart - [Schindler's List](https://www.youtube.com/watch?v=5yR0wlrq_h4)  
+ *Was ist das? [Das ist Bach?](https://www.youtube.com/watch?v=3uiUHvET_jg) Nein, Mozart - [Schindler's List](https://www.youtube.com/watch?v=5yR0wlrq_h4)  
  (Das Volk der Nichter und Denker wurde zum Volk der Richter und Henke)*
 
  *... chorales set a dangerous precedent for those who “would rather display their [learnedness…](https://www.laphamsquarterly.org/roundtable/js-bach-rebel)and multiply dissonant progressions—which often render the melody quite unrecognizable—than to respect that simplicity which in this genre is so necessary for the understanding of the common people.” - [Johann Abraham Peter Schulz](https://en.wikipedia.org/wiki/Johann_Abraham_Peter_Schulz)*
