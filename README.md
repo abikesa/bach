@@ -1,45 +1,93 @@
- *Was ist das? [Das ist Bach?](https://www.youtube.com/watch?v=3uiUHvET_jg) Nein, Mozart - [Schindler's List](https://www.youtube.com/watch?v=5yR0wlrq_h4)  
- (Das Volk der Nichter und Denker wurde zum Volk der Richter und Henke)*
+> Prelude 1, in C Major, Book One, Well Tempered Klavier: This deceptively simple composition gradually embraces remote [overtones of the harmonic series](https://faroutmagazine.co.uk/coen-brothers-influenced-quentin-tarantino-film-reservoir-dogs/) and gives birth to chromaticism as Berstein describes at [4:56](https://www.youtube.com/watch?v=hwXO3I8ASSg)
+     
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/MonaLisa_sfumato.jpeg/1200px-MonaLisa_sfumato.jpeg)
 
- *... chorales set a dangerous precedent for those who “would rather display their [learnedness…](https://www.laphamsquarterly.org/roundtable/js-bach-rebel)and multiply dissonant progressions—which often render the melody quite unrecognizable—than to respect that simplicity which in this genre is so necessary for the understanding of the common people.” - [Johann Abraham Peter Schulz](https://en.wikipedia.org/wiki/Johann_Abraham_Peter_Schulz)*
- 
-                      1. Static 
-                               \
-                 2. Censor ->  4. Music -> 5. Genre -> 6. Pantheon
-                               /  
-                                3. Info
+                                      
+                                      1. Root
+                                               \
+                              2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression
+                                               /
+                                               3. Diatonic
 
 
-### Black/Encode
-- **Static:** Embodied by Nature's unpredictable essence, representing the raw, unfiltered backdrop of existence.
-- **Censorship:** Restriction to Harmonic Series-Only, a deliberate filtering to resonate with nature's fundamental frequencies.
 
-### White/Code
-- **Information:** Symbolized by Earth, the vast repository of natural codes and rhythms.
-- **[Music](https://www.youtube.com/watch?v=J01zn9m39PA):** Johann Sebastian Bach, the quintessential architect of musical [complexity](https://en.wikipedia.org/wiki/The_Well-Tempered_Clavier#Recordings) and [emotional depth](https://en.wikipedia.org/wiki/Goldberg_Variations), embodying the "lowest dimension" of universal musical expression.
 
-### Fab/Decode
-- **Genre:** A spectrum of musical expressions that are both a tribute and an evolution of Bach's foundational work:
-  - Hymn/Traditional: Rooted in the sacred, echoing the divine.
-  - Soul/Worship: A deep, spiritual resonance with the human condition.
-  - Blues/Churchy: A raw, emotive articulation of life's trials.
-  - Rhythm/Early: The precursor to modern beats, encapsulating the pulse of existence.
-  - Jazz/Late: The intricate dance of improvisation and structure, a late but profound derivative of Bach's influence.
-- **Pantheon:** The hierarchical classification of musical influence and legacy:
-  - International: [Universal](https://www.youtube.com/watch?v=5yR0wlrq_h4) appeal and recognition.
-  - National: A shared cultural heritage.
-  - Regional: The local flavors and nuances.
+### God/Sustenance/Bod
+1. Root
+   - Italian
+2. Pentatonic
+   - Aperitivo
+   - Antipasto
+   - Primo
+   - Secondo
+   - Contorno
 
-#
+### Art/Transcendental/Soul
+3. Diatonic
+   - Dolce
+4. Chromatic
+   - Frutta
+      - Grapes
+      - Olives
+      - Lemons
+      - Figs
+      - Peaches
+      - Cherries
+      - Apples
+      - Pears
+      - Oranges
+      - Apricots
+      - Plums
+      - Strawberries
 
-# Encode
-### Updike's Insight: "Human Was the Music, Natural the Static"
-John Updike's poignant reflection, "Human was the music, natural the static," brilliantly captures the essence of the human quest to find harmony within chaos. This metaphor for life's inherent disarray and our endeavor to craft meaningful experiences from it mirrors the process of encoding—compressing the infinite into the digestible, shaping our beliefs and narratives. Conversely, the act of sharing, expressing, and living these narratives through art and music is the decoding of our human essence, transforming abstract experiences into resonant, universal expressions.
+### Man/Communcal/Processor
+5. Temperament
+   - Caffé
+6. Expression
+   - Digestivo
 
-# Code
-### The Autoencoder and Our "Credo" as "Code"
-At the heart of an autoencoder lies the profound ability to simplify complexity into essence ("encoding"), and then, to reconstruct it back to its original form ("decoding"). This mirrors the human formulation of a "Credo," a foundational set of beliefs or codes that guide our existence. Bach's compositions, with their unparalleled emotional depth and structural precision, symbolize the quintessential "code" of musicality. They serve as the cornerstone from which the edifice of future musical exploration and genre development is built.
 
-# Decode
-### Bach's Legacy and the Birth of 20th-Century American Genres
-Bach's influence on the emergence of 20th-century American music genres is a testament to the timeless relevance of his work. His ability to encapsulate complex emotions and philosophical depths in music laid the groundwork for the development of jazz, blues, and other genres. Each of these styles, while unique, is a "decoding" of Bach's musical principles, offering new interpretations and narratives. This evolution from complexity to universality in music parallels the cosmic physicists' endeavor to "decode" the universe—both are quests to extract clarity and meaning from the vastness and chaos that surround us.
+# `Ambiguity`: C7(♭9) and Gdim7(11), and the F7(♭9) and Cdim7 equivalences.
+
+#### Bach's Use of Diminished Chords and Dominant 7(♭9) Chords
+
+Bach was known for his intricate use of harmony and modulation. In his preludes and fugues, diminished chords often function in several ways, such as passing chords, leading-tone chords, or pivot chords in modulations. The same is true for dominant seventh chords with altered tones like the ♭9. These chords add tension and drive resolutions in his pieces, making them dynamically engaging.
+
+#### Analysis of the Specific Chords
+1. **Embracing mroe distant overtones:
+   - I - ii - V7 - I
+   - vi - II7 - V7 - IMaj7
+   - vi7 - II7 - V7 - vdim7(11)=I7(♭9)/V
+   - `I7(♭9)/V` (omitted, repetitoin) - ii/IV - iidim7(`11`)=V7(♭9)/V
+   - [I/iii - I/IV] - ii7 - V7  
+   - I - I7
+   - IV - IV7(♭9)/♭9 - IV7(♯9,♯11,13)/♯9
+   - V - I/V - Vsus(9) - V7 - Vdim7(11)
+   -  V - I/V - Vsus(9) - V7 - I7
+   -  IV/I - V/I
+   -  I
+     
+2. **C7(♭9) and Gdim7**:
+   - **C7(♭9)**: C, E, G, B♭, D♭
+   - **Gdim7(11)**: G, B♭, D♭, E, C
+   - As you noted, these chords share all their notes. Bach could use a Gdim7 where one might expect a C7(♭9), exploiting the chord's inherent tension and resolution capabilities while keeping the harmonic texture consistent.
+
+3. **FMaj overtones**:
+   - **FMaj7**
+   - **F7(♭9)/F♭9**: F, A, C, E♭, G♭/F♭9
+   - **F(♭9)/F**: F(♯9, ♯11, 13)/F♯9
+   - **G7**: C, E♭, G♭, A
+   - Again, these are identical in terms of their pitch content, which can lead to similar functionality and interchangeability in specific contexts.
+
+#### Musical Context and Functionality
+
+In Bach's compositions, where these chords appear, the context can indeed blur the lines between what we might analytically label as a "C7(♭9)" versus a "Gdim7," or an "F7(♭9)" versus a "Cdim7." The choice between using a diminished chord and a dominant seventh flat nine chord may be influenced by the desired resolution, the preceding harmonic progression, or the bass line, which can fundamentally alter the perceived root and function of the chord.
+
+#### Bach’s Harmonic Patterns
+
+Bach was a master of embedding complex harmonic relationships within seemingly straightforward progressions, often using inversion and reharmonization techniques. By choosing such chords, he was able to create a continuous flow of tension and release, which is a hallmark of his style. This not only showcases his compositional skill but also provides a rich tapestry for analysis and interpretation. 
+
+In examining Bach’s work, noticing patterns like the ones you've identified offers a window into his compositional genius, revealing how he could manipulate harmonic expectations and conventions to enrich his musical narratives. Your observation underscores the value of looking deeply into his harmonic choices to understand better the underlying structures and techniques that make his music so enduring and influential.
+
+
+
