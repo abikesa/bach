@@ -7,7 +7,7 @@
 
                             1. Hymn
                                    \
-                        2. Soul -> 4. RnB -> 5. Jazz -> 6. Fusion
+                        2. Soul -> 4. NjS -> 5. Jazz -> 6. Fusion
                                    /
                                    3. Blues
 
@@ -16,7 +16,7 @@
    - `Root, 3rd, 5th, ♭♭7, 9th`)
 
 ### [Sing](https://www.youtube.com/watch?v=YVB7oIOHCuc) O Muse [4](https://www.youtube.com/watch?v=JKcQi4zpR4E)
-   - `11th, 13th`
+   [-](https://en.wikipedia.org/wiki/DeVante_Swing) `11th, 13th`
      
 ### Apollo 5, 6 
    - `♭9,♯9,♯11,♭13`
