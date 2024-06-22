@@ -1,7 +1,9 @@
 
 > Prelude 1, in C Major, Book One, Well Tempered Klavier: This deceptively simple composition gradually embraces remote [overtones of the harmonic series](https://faroutmagazine.co.uk/coen-brothers-influenced-quentin-tarantino-film-reservoir-dogs/) and gives birth to chromaticism as Berstein describes at [4:56](https://www.youtube.com/watch?v=hwXO3I8ASSg)
      
-![](frontier.png)
+
+![](https://abikesa.github.io/zarathustra/python.png)
+
 
                             1. Hymn
                                    \
@@ -18,13 +20,15 @@
      
 ### Apollo 5, 6 
    - `♭9,♯9,♯11,♭13`
- 
 
-![](https://abikesa.github.io/zarathustra/python.png)
-   
-<iframe src="https://www.youtube.com/embed/ImoSl0VtoXY" style="border:none" width="100%" height="600px"></iframe>
+                             1. Root
+                                   \
+                  2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression
+                                   /
+                                   3. Diatonic
 
-                             
+![](https://abikesa.github.io/music/frontier.png)
+                    
 
 ## `Ambiguity`: C7(♭9) and Gdim7(11), and the F7(♭9) and Cdim7 equivalences.
 
