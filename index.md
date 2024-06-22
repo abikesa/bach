@@ -1,6 +1,7 @@
 
 > Prelude 1, in C Major, Book One, Well Tempered Klavier: This deceptively simple composition gradually embraces remote [overtones of the harmonic series](https://faroutmagazine.co.uk/coen-brothers-influenced-quentin-tarantino-film-reservoir-dogs/) and gives birth to chromaticism as Berstein describes at [4:56](https://www.youtube.com/watch?v=hwXO3I8ASSg)
-     
+
+> When u got turtlenecks, shoulder pads and a unibrow [u](https://www.youtube.com/watch?v=Fckqglxb49s) can't be stopped
 
 ![](https://abikesa.github.io/zarathustra/python.png)
 
