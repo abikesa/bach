@@ -1,56 +1,34 @@
 
 > Prelude 1, in C Major, Book One, Well Tempered Klavier: This deceptively simple composition gradually embraces remote [overtones of the harmonic series](https://faroutmagazine.co.uk/coen-brothers-influenced-quentin-tarantino-film-reservoir-dogs/) and gives birth to chromaticism as Berstein describes at [4:56](https://www.youtube.com/watch?v=hwXO3I8ASSg)
      
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/MonaLisa_sfumato.jpeg/1200px-MonaLisa_sfumato.jpeg)
+![](frontier.png)
 
-                                      
-                                        1. Root
-                                               \
-                              2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression
-                                               /
-                                               3. Diatonic
-
+                            1. Hymn
+                                   \
+                        2. Soul -> 4. RnB -> 5. Jazz -> 6. Fusion
+                                   /
+                                   3. Blues
 
 
+### Dionysus 1, 2, 3
+   - `Root, 3rd, 5th, ♭♭7, 9th`)
 
-### God/Sustenance/Body
-1. Root
-   - Italian
-2. Pentatonic
-   - Aperitivo
-   - Antipasto
-   - Primo
-   - Secondo
-   - Contorno
+### [Sing](https://www.youtube.com/watch?v=YVB7oIOHCuc) O Muse [4](https://www.youtube.com/watch?v=JKcQi4zpR4E)
+   - `11th, 13th`
+     
+### Apollo 5, 6 
+   - `♭9,♯9,♯11,♭13`
+ 
 
-### Art/Transcendental/Soul
-3. Diatonic
-   - Dolce
-4. Chromatic
-   - Frutta
-      - Grapes
-      - Olives
-      - Lemons
-      - Figs
-      - Peaches
-      - Cherries
-      - Apples
-      - Pears
-      - Oranges
-      - Apricots
-      - Plums
-      - Strawberries
+![](https://abikesa.github.io/zarathustra/python.png)
+   
+<iframe src="https://www.youtube.com/embed/ImoSl0VtoXY" style="border:none" width="100%" height="600px"></iframe>
 
-### Man/Communal/Processor
-5. Temperament
-   - Caffé
-6. Expression
-   - Digestivo
-
+                             
 
 ## `Ambiguity`: C7(♭9) and Gdim7(11), and the F7(♭9) and Cdim7 equivalences.
 
-#### Bach's Use of Diminished Chords and Dominant 7(♭9) Chords
+#### Diminished Chords & Dominant 7(♭9) Chords
 
 Bach was known for his intricate use of harmony and modulation. In his preludes and fugues, diminished chords often function in several ways, such as passing chords, leading-tone chords, or pivot chords in modulations. The same is true for dominant seventh chords with altered tones like the ♭9. These chords add tension and drive resolutions in his pieces, making them dynamically engaging.
 
