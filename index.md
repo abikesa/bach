@@ -15,7 +15,7 @@
 ### Dionysus 1, 2, 3
    - `Root, 3rd, 5th, ♭♭7, 9th`)
 
-### [Sing](https://www.youtube.com/watch?v=YVB7oIOHCuc) O Muse [4](https://www.youtube.com/watch?v=JKcQi4zpR4E)
+### [Sing](https://www.youtube.com/watch?v=YVB7oIOHCuc) [O](https://www.youtube.com/watch?v=Fckqglxb49s) Muse [4](https://www.youtube.com/watch?v=JKcQi4zpR4E)
    [-](https://en.wikipedia.org/wiki/DeVante_Swing) `11th, 13th`
      
 ### Apollo 5, 6 
