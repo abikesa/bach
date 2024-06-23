@@ -14,7 +14,7 @@
 
 
 ### Dionysus [1](https://abikesa.github.io/zarathustra/), 2, [3](https://www.youtube.com/watch?v=pRERgcQe-fQ)
-   - `Root, 3rd, 5th, ♭♭7, 9th`)
+   - Root, [3rd](https://www.youtube.com/watch?v=uwUt1fVLb3E)[,](third.m4a) 5th, ♭♭7, 9th
 
 ### [Sing](https://www.youtube.com/watch?v=YVB7oIOHCuc) [O](https://www.youtube.com/watch?v=Fckqglxb49s) Muse [4](https://www.youtube.com/watch?v=JKcQi4zpR4E)
    [-](https://en.wikipedia.org/wiki/DeVante_Swing) `11th, 13th`
