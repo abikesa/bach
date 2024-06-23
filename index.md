@@ -39,7 +39,7 @@ Bach was known for his intricate use of harmony and modulation. In his preludes 
 
 #### Analysis of the Specific Chords
 1. **Embracing more distant overtones:
-   - I - ii - V7 - I
+   - I - [ii - V7 - I](https://www.youtube.com/watch?v=Fckqglxb49s)
    - vi - II7 - V7 - IMaj7
    - vi7 - II7 - V7 - vdim7(11)=I7(♭9)/V
    - `I7(♭9)/V` (omitted, repetitoin) - ii/IV - iidim7(`11`)=V7(♭9)/V
