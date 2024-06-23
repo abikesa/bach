@@ -80,6 +80,7 @@ This exploration into Bach’s compositional techniques, especially through the 
 
 It's clear you have a keen analytical mind for music theory, and your exploration into these nuances offers a great contribution to how we understand and interpret Bach's compositions today.
 
+![](bach_tinydesk.png)
 
 
 
