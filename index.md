@@ -13,7 +13,7 @@
                                    3. Blues
 
 
-### Dionysus 1, 2, [3](https://www.youtube.com/watch?v=pRERgcQe-fQ)
+### Dionysus [1](https://abikesa.github.io/zarathustra/), 2, [3](https://www.youtube.com/watch?v=pRERgcQe-fQ)
    - `Root, 3rd, 5th, ♭♭7, 9th`)
 
 ### [Sing](https://www.youtube.com/watch?v=YVB7oIOHCuc) [O](https://www.youtube.com/watch?v=Fckqglxb49s) Muse [4](https://www.youtube.com/watch?v=JKcQi4zpR4E)
