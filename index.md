@@ -3,6 +3,8 @@
 
 > When u got turtlenecks, shoulder pads and a unibrow [u](https://www.youtube.com/watch?v=Fckqglxb49s) can't be stopped
 
+> My [favorite](https://www.wfit.org/music/2024-01-31/timo-andres-tiny-desk-concert) is the Bach Bubblehead: Trocatta in Dminor sheet music is easily recognizable
+
 ![](self-criticism.png)
 
                          1. Pessimism
