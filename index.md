@@ -3,24 +3,23 @@
 
 > When u got turtlenecks, shoulder pads and a unibrow [u](https://www.youtube.com/watch?v=Fckqglxb49s) can't be stopped
 
-![](https://abikesa.github.io/zarathustra/python.png)
+![](self-criticism.png)
+
+                         1. Pessimism
+                                     \
+            2. Beyond Good & Evil -> 4. Dionysian -> 5. Science -> 6. Morality
+                                     /
+                                     3. Robustness
 
 
-                            1. Hymn
-                                   \
-                        2. Soul -> 4. NjS -> 5. Jazz -> 6. Fusion
-                                   /
-                                   3. Blues
-
-
-### Dionysus [1](https://abikesa.github.io/zarathustra/), 2, [3](https://www.youtube.com/watch?v=pRERgcQe-fQ)
+### Embrace Notes From All Keys [1](https://abikesa.github.io/zarathustra/), 2, [3](https://www.youtube.com/watch?v=pRERgcQe-fQ)
    - Root, [3rd](https://www.youtube.com/watch?v=uwUt1fVLb3E)[,](third.m4a) 5th, ♭♭7, 9th
 
-### [Sing](https://www.youtube.com/watch?v=YVB7oIOHCuc) [O](https://www.youtube.com/watch?v=Fckqglxb49s) Muse [4](https://www.youtube.com/watch?v=JKcQi4zpR4E)
-   [-](https://en.wikipedia.org/wiki/DeVante_Swing) `11th, 13th`
+### [Passing](https://www.youtube.com/watch?v=YVB7oIOHCuc) [Chords](https://www.youtube.com/watch?v=Fckqglxb49s) Muse [4](https://www.youtube.com/watch?v=JKcQi4zpR4E)
+   [-](https://en.wikipedia.org/wiki/DeVante_Swing) `11th, 13th` Voice leading, Passing chords, `Chromaticism`
      
-### Apollo 5, 6 
-   - `♭9,♯9,♯11,♭13`
+### Systematized 5, 6 
+   - `♭9,♯9,♯11,♭13` Temperament
 
                              1. Root
                                    \
@@ -29,7 +28,41 @@
                                    3. Diatonic
 
 ![](https://abikesa.github.io/music/frontier.png)
-                    
+
+## Break-through insights
+
+I'm glad we reached a satisfying analysis! Indeed, the use of a passing chord like C# diminished over E adds a beautiful chromatic touch to the progression, enriching the harmonic texture.
+
+### Detailed Harmonic Analysis (Measures 1-4)
+
+**Measure 1-2:**
+- **G major (I)**: G - B - D
+- **D major (V)**: D - F# - A
+
+**Measure 3:**
+- **E minor (vi)**: E - G - B
+
+**Measure 4:**
+- **C# diminished over E (C# dim/E)**: E - G - C#
+
+This progression exemplifies Bach's genius in creating smooth, yet chromatically rich, transitions within a diatonic framework. The C# diminished chord serves as a chromatic passing chord, leading back to diatonic harmony.
+
+### Harmonic Function
+
+1. **Measure 1 (G major, I):** Establishes the tonic.
+2. **Measure 2 (D major, V):** Moves to the dominant, setting up tension.
+3. **Measure 3 (E minor, vi):** Introduces a relative minor chord.
+4. **Measure 4 (C# dim/E):** The diminished chord provides a chromatic passing tone, adding harmonic interest and smooth voice leading.
+
+### Voice Leading
+
+- **E minor (vi) to C# dim/E:** The G and E notes are common tones, while the B resolves down to C#, creating a smooth voice leading effect.
+
+This chromatic passing chord adds a layer of complexity and beauty to the piece, showcasing Bach's ability to blend diatonic and chromatic elements seamlessly.
+
+### Conclusion
+
+Your observation about the chromatic quality is spot-on. The use of C# diminished over E as a passing chord explains the unexpected richness in measure 3, transforming what could have been a simple diatonic progression into something much more compelling. Bach’s harmonic ingenuity continues to captivate and inspire, revealing new layers of beauty with each analysis.
 
 ## `Ambiguity`: C7(♭9) and Gdim7(11), and the F7(♭9) and Cdim7 equivalences.
 
