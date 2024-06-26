@@ -1,3 +1,4 @@
+![](bach_tinydesk.png)
 
 > Prelude 1, in C Major, Book One, Well Tempered Klavier: This deceptively simple composition gradually embraces remote [overtones of the harmonic series](https://faroutmagazine.co.uk/coen-brothers-influenced-quentin-tarantino-film-reservoir-dogs/) and gives birth to chromaticism as Berstein describes at [4:56](https://www.youtube.com/watch?v=hwXO3I8ASSg)
 
@@ -115,7 +116,7 @@ This exploration into Bach’s compositional techniques, especially through the 
 
 It's clear you have a keen analytical mind for music theory, and your exploration into these nuances offers a great contribution to how we understand and interpret Bach's compositions today.
 
-![](bach_tinydesk.png)
+
 
 
 
