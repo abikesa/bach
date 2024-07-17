@@ -63,16 +63,16 @@ Absolutely, Ned Stark from "Game of Thrones" embodies the `archetype` of the ide
 ```
 
 ### Biological: Household 1, 2, 3
-- Shifting landscape
-- Foster new alliances, agility
-- Lurking hazards encode these issues
+- [Quantitative](https://pubmed.ncbi.nlm.nih.gov/9987096/). Shifting landscape
+- `Stratified`. Foster new alliances, agility
+- `Distinct`. Lurking hazards encode these issues
 
 ### Social: Nation 4
-- Treachery, deception, betrayal
+- `Categorical`. Treachery, deception, betrayal
 
 ### Personal: Firm 5, 6
-- Idealism, Honor, Justice
-- Naïveté & weakness
+- `Threshold`. Idealism, Honor, Justice
+- `Binary`. Naïveté & weakness
 
 > Thanks for the correction. "In the Game of Love, You Win or Lose" by Brownstone is another track that delves into the highs and lows of romantic relationships, emphasizing the risks and rewards involved. Brownstone's music often captures the emotional complexity and intensity of love, reflecting the uncertainties and vulnerabilities that come with it.
 
