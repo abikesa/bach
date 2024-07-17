@@ -17,7 +17,7 @@
 width: 1px
 height: 1px
 ---
-_The [House of](markdown/idealism.md) Suntori_ represents the [epitome](markdown/woodyallen.ipynb) of Japanese whisky [craftsmanship](markdown/stevejobs.md), [blending](markdown/jazz.ipynb) [tradition](bach/index.md) and [innovation](markdown/thesis-p.ipynb). [Founded in 1899](markdown/blocks.md), it has become a [symbol](markdown/literary_criticism.ipynb) of meticulous [artistry](markdown/art.md), where each bottle tells a story of heritage and [mastery](markdown/arte_scienza.ipynb). This figure embodies the essence of Suntori's philosophy, harmonizing nature and spirit in every drop.
+_The [House of](markdown/idealism.md) Suntori_ represents the [epitome](markdown/woodyallen.ipynb) of Japanese [whisky](markdown/schlemiel.md) [craftsmanship](markdown/stevejobs.md), [blending](markdown/jazz.ipynb) [tradition](bach/index.md) and [innovation](markdown/thesis-p.ipynb). [Founded in 1899](markdown/blocks.md), it has become a [symbol](markdown/literary_criticism.ipynb) of meticulous [artistry](markdown/art.md), where each bottle tells a story of heritage and [mastery](markdown/arte_scienza.ipynb). This figure embodies the essence of Suntori's philosophy, harmonizing nature and spirit in every drop.
 ```
 
 ```{margin}
