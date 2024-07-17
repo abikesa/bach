@@ -7,12 +7,12 @@
                                     /
                                     3. h(t)
 
-### Biological: Anxiety(t) 1, 2, 3
+### Biological: [Love](https://www.youtube.com/watch?v=6LaRggNKPHA)(t) 1, 2, 3
 - $f(t)$
 - $S(t)$
 - $h(t)=\frac{f(t)}{S(t)}$
 
-### Politics: GoT 4
+### Politics: [Thrones](https://en.wikipedia.org/wiki/You_Win_or_You_Die) 4
 - $\displaystyle X$
 
 ### Selfish: Will 5, 6
