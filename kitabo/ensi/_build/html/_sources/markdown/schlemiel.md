@@ -46,7 +46,7 @@ In summary, while Falstaff shares many characteristics with the Schlemiel archet
                                  /
                                  3. Graphical 
 
-```{figure} ./self-criticism.png
+```{figure} ../figures/self-criticism.png
 ---
 width: 1000px
 name: philosophy
