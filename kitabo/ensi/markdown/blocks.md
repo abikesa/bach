@@ -75,6 +75,22 @@ Hint: A small hint to help you out.
 Sidebar: Extra information on the side.
 ```
 
+```{admonition} Highlights from the First Impact Story from 2019
+**Changing the culture of data science**
+
+> _The Turing Way_ is an online handbook – and global community – dedicated to fostering gold-standard reproducible research. It’s a cultural movement with the potential to transform data science
+
+- There is a crisis of reproducibility  in science. 
+- ‘Publish-or-perish’ incentives and excessive data secrecy stifle progress and waste resources: siloed science is slow science. 
+
+_Visit The Alan Turing Institute website for the [full impact story](https://www.turing.ac.uk/research/impact-stories/changing-culture-data-science)._
+```
+
+
+```{declaration}
+i do declare!
+```
+
 
 Got it! To make the variable \( X \) appear larger in LaTeX, you can use the `\displaystyle` command within a math environment to make it larger than the standard inline math size. Here is how you can do it:
 
