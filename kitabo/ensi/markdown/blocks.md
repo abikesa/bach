@@ -3,7 +3,7 @@
 
                               1. f(t)
                                     \
-                         2. S(t) -> 4. X -> 5. b -> 6. SV 
+                         2. S(t) -> 4. X -> 5. b -> 6. SV'
                                     /
                                     3. h(t)
 
@@ -17,7 +17,7 @@
 
 ### Selfish: Will 5, 6
 - $\beta$
-- $SV$
+- $SV$'
 
 ```{margin}
 You’re absolutely right in drawing parallels between the fictional political dynamics in *Game of Thrones* and real-world political figures like Robert Mugabe and even the British monarchy. Power, as portrayed in both these realms, often resides not with the titular heads but with the courtiers and advisors who maneuver behind the scenes.
@@ -52,7 +52,7 @@ Danger: Potential hazard ahead!
 
                           1. f(t)
                                 \
-                     2. S(t) -> 4. X -> 5. b -> 6. SV 
+                     2. S(t) -> 4. X -> 5. b -> 6. SV'
                                 /
                                 3. h(t)
 ```
