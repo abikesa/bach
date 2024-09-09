@@ -3,9 +3,11 @@
 
  <iframe width="100%" height="600" src="https://www.youtube.com/embed/GOGru_4z1Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe src="https://www.ghadvances.org/action/showPdf?pii=S2772-5723%2824%2900055-4" width="100%" height="600"></iframe>
+
 ```{admonition} Autoencoder
 :class: tip
-Don't be trapped by [dogma](markdown/stevejobs.md), which is the results of other people's thinking
+Don't be trapped by [dogma](stevejobs.md), which is the results of other people's thinking
 ```
 
 
@@ -24,7 +26,7 @@ Don't be trapped by [dogma](markdown/stevejobs.md), which is the results of othe
 ### Latent-space; Categorical 4
 - Collective; with categorical variables hierarchical modeling needed
 
-### Decoding; Binary [5](https://www.ghadvances.org/action/showPdf?pii=S2772-5723%2824%2900055-4), 6
+### Decoding; Binary 5, 6
 - Oracle; easy to apply yes/no rules in a univariable sense
 - Personalize; we draw a red line arbitrarily at, say, $z=1.96$
 
@@ -53,7 +55,7 @@ Don't be trapped by [dogma](markdown/stevejobs.md), which is the results of othe
 
 ```
 
- <iframe width="100%" height="600" src="https://www.youtube.com/embed/Rjxp_LZTx6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ### Dossier on Mozart & Shakespeare and the "Embarrassment" of Their Moorish Characters
 
